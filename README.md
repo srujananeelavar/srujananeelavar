@@ -2,7 +2,7 @@
 - 👀 I’m interested in computational medicine, evolutionary biology and drug discovery
 - 🌱 I’m currently learning computational biology
 - 💞️ I’m looking to collaborate on designing personalized medicine strategies
-- 📫 How to reach me sneelava@gmail.com
+- 📫 How to reach me sneelava@andrew.cmu.edu
 
 <!---
 srujananeelavar/srujananeelavar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
